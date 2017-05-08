@@ -76,10 +76,6 @@ mvn archetype:generate                                      \
 
 ```
 
-###4.1.1.2 基础工程包含的开发框架
-
-![](pics/frames.png)
-
 
 
 
