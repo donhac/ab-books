@@ -32,7 +32,7 @@
 * [4.1 Java工程](4-kai-fa-kuang-jia/41-javagong-cheng.md)
   * [4.1.1 脚手架工程](4-kai-fa-kuang-jia/41-javagong-cheng/411-jiao-shou-jia-gong-cheng.md)
   * [4.1.2 快速开发一个微服务](4-kai-fa-kuang-jia/41-javagong-cheng/412-kuai-su-kai-fa-yi-ge-wei-fu-wu.md)
-    * 4.1.2.1 构建一个微服务工程
+    * [4.1.2.1 构建一个微服务工程](4-kai-fa-kuang-jia/41-javagong-cheng/412-kuai-su-kai-fa-yi-ge-wei-fu-wu/4121-gou-jian-yi-ge-wei-fu-wu-gong-cheng.md)
     * 4.1.2.2 运行微服务工程
     * [4.1.2.3 工程代码分析](4-kai-fa-kuang-jia/41-javagong-cheng/412-kuai-su-kai-fa-yi-ge-wei-fu-wu/4123-gong-cheng-dai-ma-fen-xi.md)
       * 目录结构
