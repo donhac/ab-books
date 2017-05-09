@@ -14,4 +14,4 @@ mvn archetype:generate                                      \
   -DarchetypeCatalog=local
 ```
 
-### 4.1.1.2 基础工程目录结构
+**生成的目录结构**
